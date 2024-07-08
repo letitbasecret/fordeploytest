@@ -1,14 +1,19 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: pink;
+  text-align: center;
+  background-color: pink;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cornsilk;
 }
