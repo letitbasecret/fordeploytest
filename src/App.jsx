@@ -12,7 +12,6 @@ export default function App() {
   return (
     <>
       <div>
-        Hi..!
         <div className="container">
           <form
             onSubmit={handleSubmit}
